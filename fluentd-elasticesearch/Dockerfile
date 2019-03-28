@@ -1,1 +1,1 @@
-FROM  gcr.azk8s.cn/fluentd-elasticsearch:v2.5.0
+FROM  k8s.gcr.io/fluentd-elasticsearch:v2.5.0
