@@ -1,0 +1,1 @@
+FROM  gcr.azk8s.cn/fluentd-elasticsearch:v2.5.0
